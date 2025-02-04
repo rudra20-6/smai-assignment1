@@ -1,0 +1,9 @@
+for 2.1:
+will try to write a python script to find the mode of each column - > and then maybe fill the empty spaces with that?
+ - mode feels like a good way to do it? although
+checking how many empty values are there to see if deleteing the row is a possible solution?
+  - So there are exactly on 30 values missing in weather, traffic level, time of day and exp level columns
+  - i guess we can delete??
+    - Maybe not... coz there are 119 different rows so we would be deleting 1/10th of the dataset, not optimal ig?
+
+okay so 
